@@ -6,6 +6,9 @@ This repository contains the programming code and output figures from my MIS581 
 The project applied descriptive statistics, hypothesis testing, and logistic regression to evaluate differences across approval cohorts, loan size, geography, and industry. The results provide insight into the risks of early charge-off and highlight important predictors that can inform SBA oversight, lender practices, and borrower decision-making.
 
 **Repository Contents**
+
+Final Paper: Final Project Write up Submisson
+
 Data Source: Due to file size constraints, the raw SBA 7(a) loan-level datasets are not included in this repository. They are publicly available through the U.S. Small Business Administration’s official website: https://data.sba.gov/dataset/7-a-504-foia
 
 MIS581 - Capstone Project.ipynb – Jupyter Notebook with data cleaning, descriptive statistics, hypothesis testing, and logistic regression.
